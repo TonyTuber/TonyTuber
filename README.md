@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tosky
 - 👀 I’m interested in coding , crypto and design.
-- 🌱 I’m currently learning coding.
+- 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on projects which involves python/c#.
 - 📫 How to reach me ... you can reach me at @nottosky on instagram.
 
